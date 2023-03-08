@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/id15844516" target="_blank">Mikhail Beregovich</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> 🇷🇺</h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Back-end developer and mentor in <a href="https://it-incubator.io/" target="_blank">IT-INCUBATOR</a></h3>
 <!--
 **Beregovich/Beregovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
