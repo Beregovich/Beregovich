@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/beregovich" target="_blank">Mikhail Beregovich</a> 
+<h1 align="center">Hi there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Back-end developer</h3>
+<h3 align="center">To contact me, please use <a href="https://t.me/beregovich" target="_blank">Telegram</a> </h3>
 <!--
 **Beregovich/Beregovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
